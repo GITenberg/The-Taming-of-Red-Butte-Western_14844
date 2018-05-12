@@ -1,0 +1,34 @@
+_repo: The-Taming-of-Red-Butte-Western_14844
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lynde, Francis
+    birthdate: 1856
+    deathdate: 1930
+    gutenberg_agent_id: '2626'
+    url: http://www.gutenberg.org/2009/agents/2626
+description: ''
+gutenberg_issued: '2005-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14844'
+  lccn: '10009522'
+language: en
+publication_note: "Charles Scribner's Sons\r\nNew York, 1916"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcc 'PZ'
+tableOfContents: "Collars-and-Cuffs\r\nThe Red Desert\r\nA Little Brother of the Cows\r\
+  \nAt the Rio Gloria\r\nThe Outlaws\r\nEveryman's Share\r\nThe Killer\r\nBenson's\
+  \ Bridge-Timbers\r\nJudson's Joke\r\nFlemister and Others\r\nNemesis\r\nThe Pleasurers\r\
+  \nBitter-Sweet\r\nBlind Signals\r\nEleanor Intervenes\r\nThe Shadowgraph\r\nThe\
+  \ Dipsomaniac\r\nAt Silver Switch\r\nThe Challenge\r\nStorm Signals\r\nThe Boss\
+  \ Machinist\r\nThe Terror\r\nThe Crucible"
+title: The Taming of Red Butte Western
+url: http://www.gutenberg.org/ebooks/14844
